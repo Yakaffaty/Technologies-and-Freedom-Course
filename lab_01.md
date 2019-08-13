@@ -1,5 +1,5 @@
 ## Lab no. 1
-##### Bitcoin node - regtest
+### Bitcoin node - regtest exercise
 
 1. Download docker image:
 ```console 

@@ -1,2 +1,3 @@
-# Technologies-Freedom-Course
-Notes as Teacher Assitant of the course Technologies &amp; Freedom at Universidad Francisco Marroquín.
+# Technologies & Freedom Course
+
+* [Lab 01](https://github.com/Tortolala/Technologies-and-Freedom-Course/lab_01.md)

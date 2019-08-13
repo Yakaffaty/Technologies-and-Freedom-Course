@@ -8,7 +8,7 @@ docker pull nicolasdorier/docker-bitcoin:0.18.0
 
 2. Create image instance: 
 ```console 
-docker run -d --rm --name bitcoin nicolasdorier/docker-bitcoin:0.18.
+docker run -d --rm --name bitcoin nicolasdorier/docker-bitcoin:0.18.0
 ```
 
 3. Jump to container's bash:
